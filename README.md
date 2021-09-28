@@ -26,7 +26,7 @@ The purpose of this lab is to get you and your partner familiar with `git`, spec
 
 Be sure to test your functions as you write them! You can invoke the functions after they have been implemented or use `console.log` to print out their return value.
 
-1. Write a function `OneHundredToFive` that console logs all numbers starting from 100 **down to ** 5.
+1. Write a function `OneHundredToFive` that console logs all numbers starting from 100 **down to** 5.
 
 2. Write a function `absoluteValue` that **returns** the absolute value of a number. If the value is not a number, it returns `null`.
 ```
