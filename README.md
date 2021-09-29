@@ -40,7 +40,7 @@ absoluteValue("hi")   //returns null
 4. Write a function `square` that takes in an integer parameter and **returns** the square of the number **unless** that number is a perfect square, in which case, return the square root of the number instead!
 ```
 square(5)    //return 25
-square(9)    //return 81
+square(7)    //return 49
 square(25)   //return 5 because 25 is a perfect square with a root of 5
 square(36)   //return 6 because 36 is a perfect square with a root of 6.
 ```
